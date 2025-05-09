@@ -26,7 +26,7 @@ Node.jsがインストールされていることを確認してください（�
 
 1. このリポジトリをクローンします：
 ```bash
-git clone https://github.com/your-username/todo-app-nuxt3-pinia.git
+git clone https://github.com/honggipyo/todo-app-nuxt3-pinia.git
 cd todo-app-nuxt3-pinia
 ```
 
